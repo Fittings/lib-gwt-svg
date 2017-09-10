@@ -22,6 +22,10 @@
 		<connection>scm:git:git@github.com:laaglu/lib-gwt-svg.git</connection>
 		<developerConnection>scm:git:git@github.com:laaglu/lib-gwt-svg.git</developerConnection>
 	</scm>
+  <properties>
+    <maven.compiler.source>1.6</maven.compiler.source>
+    <maven.compiler.target>1.6</maven.compiler.target>
+  </properties>
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
